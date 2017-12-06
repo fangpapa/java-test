@@ -1,0 +1,8 @@
+stream
+http://blog.tonycube.com/2015/10/java-java8-3-stream.html
+
+optional
+http://blog.tonycube.com/2015/10/java-java8-4-optional.html
+
+JDK8 Map 便利的預設方法
+http://www.codedata.com.tw/java/jdk8-map-default-methods/
